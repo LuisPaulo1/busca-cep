@@ -2,7 +2,7 @@
 
 # Sobre o projeto
 
-Projeto desenvolvido com ReactJS e integrado com a APIs viaCep que busca um endereço baseado em um cep informado no campo de busca.
+Projeto desenvolvido com ReactJS e integrado com a API viaCep que busca um endereço baseado em um cep informado no campo de busca.
 
 ## Layouts da aplicação
 
