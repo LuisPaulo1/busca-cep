@@ -29,7 +29,7 @@ Pré-requisitos: yarn e Git
 git clone https://github.com/LuisPaulo1/busca-cep.git
 
 # entrar na pasta do projeto
-cd frontend
+cd busca-cep
 
 # instalar dependências
 yarn
